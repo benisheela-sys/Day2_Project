@@ -1,4 +1,4 @@
-# main.py
+# grade_manager.py
 
 students = []
 
